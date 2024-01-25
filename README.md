@@ -1,5 +1,12 @@
 # ExponentUp Dummy Sales Analysis and Forecasting
 
+## Project Image
+**Dashboard 1
+![Project Image](https://github.com/ZedOps8/ExponentUp-DummySales/blob/main/Dashboard1.png)
+
+**Dashboard 2
+![Project Image](https://github.com/ZedOps8/ExponentUp-DummySales/blob/main/Dashboard2.png)
+
 ## Overview
 
 Welcome to the ExponentUp Dummy Sales Analysis and Forecasting project repository! This project is designed to showcase my skills in data analysis, specifically focusing on business and sales data. The goal is to apply various data analysis techniques, with a specialization in time series analysis, to derive valuable insights, accurate sales forecasting, and the creation of an interactive dashboard.
@@ -7,13 +14,6 @@ Welcome to the ExponentUp Dummy Sales Analysis and Forecasting project repositor
 ## Project Drive
 
 All project-related files, datasets, and documentation can be found in the [Project Drive](https://drive.google.com/drive/folders/1GSlGIZyHOAT_abcb1UevekRUPyKPVBzZ?usp=sharing). Make sure to access this drive for the latest updates and resources.
-
-## Project Image
-**Dashboard 1
-![Project Image](https://github.com/ZedOps8/ExponentUp-DummySales/blob/main/Dashboard1.png)
-
-**Dashboard 2
-![Project Image](https://github.com/ZedOps8/ExponentUp-DummySales/blob/main/Dashboard2.png)
 
 ## About ExponentUp
 
