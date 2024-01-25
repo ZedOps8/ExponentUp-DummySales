@@ -13,7 +13,7 @@ All project-related files, datasets, and documentation can be found in the [Proj
 ![Project Image](https://github.com/ZedOps8/ExponentUp-DummySales/blob/main/Dashboard1.png)
 
 **Dashboard 2
-![Project Image](https://github.com/ZedOps8/ExponentUp-DummySales/blob/main/Dashboard1.png)
+![Project Image](https://github.com/ZedOps8/ExponentUp-DummySales/blob/main/Dashboard2.png)
 
 ## About ExponentUp
 
