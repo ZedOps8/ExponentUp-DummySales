@@ -17,7 +17,7 @@ All project-related files, datasets, and documentation can be found in the [Proj
 
 ## About ExponentUp
 
-The project adopts the fictional company name "ExponentUp" for the purpose of simulating a real-world business scenario. This choice is made in preparation for applying for business and sales job roles, providing a tangible demonstration of your skills in data analysis, forecasting, and dashboard creation.
+The project adopts the fictional company name "ExponentUp" for the purpose of simulating a real-world business scenario. This choice is made in preparation for applying for business and sales job roles, providing a tangible demonstration of my skills in data analysis, forecasting, and dashboard creation.
 
 ## Project Objectives
 
@@ -28,6 +28,6 @@ The project adopts the fictional company name "ExponentUp" for the purpose of si
 
 ## Getting Started
 
-1. Clone this repository to your local machine.
+1. Clone this repository to my local machine.
    ```bash
    git clone https://github.com/your-username/exponentup-sales-analysis.git
