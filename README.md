@@ -10,7 +10,7 @@ All project-related files, datasets, and documentation can be found in the [Proj
 
 ## Project Image
 
-![Project Image](https://drive.google.com/file/d/1b-kkoi0_AVOsHMpNweWesWl4mPHPZ09X/view?usp=sharing)
+![Project Image](https://github.com/ZedOps8/ExponentUp-DummySales/blob/main/Screenshot%202024-01-25%20151041.png)
 
 ## About ExponentUp
 
