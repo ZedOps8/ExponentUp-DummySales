@@ -9,8 +9,11 @@ Welcome to the ExponentUp Dummy Sales Analysis and Forecasting project repositor
 All project-related files, datasets, and documentation can be found in the [Project Drive](https://drive.google.com/drive/folders/1GSlGIZyHOAT_abcb1UevekRUPyKPVBzZ?usp=sharing). Make sure to access this drive for the latest updates and resources.
 
 ## Project Image
+**Dashboard 1
+![Project Image](https://github.com/ZedOps8/ExponentUp-DummySales/blob/main/Dashboard1.png)
 
-![Project Image](https://github.com/ZedOps8/ExponentUp-DummySales/blob/main/Screenshot%202024-01-25%20151041.png)
+**Dashboard 2
+![Project Image](https://github.com/ZedOps8/ExponentUp-DummySales/blob/main/Dashboard1.png)
 
 ## About ExponentUp
 
