@@ -1,10 +1,10 @@
 # ExponentUp Dummy Sales Analysis and Forecasting
 
-## Project Image
-**Dashboard 1
+## Project Dashboard
+**Dashboard 1**
 ![Project Image](https://github.com/ZedOps8/ExponentUp-DummySales/blob/main/Dashboard1.png)
 
-**Dashboard 2
+**Dashboard 2**
 ![Project Image](https://github.com/ZedOps8/ExponentUp-DummySales/blob/main/Dashboard2.png)
 
 ## Overview
