@@ -21,7 +21,7 @@ The project adopts the fictional company name "ExponentUp" for the purpose of si
 
 ## Project Objectives
 
-- **Data Analysis Techniques**: Utilize various data analysis techniques to extract meaningful insights from the provided dataset.
+- **Data Analysis Technique**: Utilize various data analysis techniques to extract meaningful insights from the provided dataset.
 - **Time Series Analysis**: Specialize in time series analysis to understand patterns, trends, and seasonality in sales data.
 - **Sales Forecasting**: Implement accurate sales forecasting methods to predict future sales trends.
 - **Interactive Dashboard**: Create an interactive dashboard that visually represents the analyzed data and insights, facilitating easy interpretation for business stakeholders.
